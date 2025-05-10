@@ -1,0 +1,28 @@
+# Entornos virtuales
+venv/
+env/
+__pycache__/
+
+# Configuraciones sensibles
+.env
+.env.local
+.env.development
+
+# Archivos compilados / temporales
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+
+# Logs y resultados
+logs/
+results/
+output/
+
+# Cache de Streamlit
+.streamlit/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
